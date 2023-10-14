@@ -8,6 +8,8 @@ public class test1 {
 		System.out.println("Java2");
 		System.out.println("Java3");
 		System.out.println("Java4");
+		System.out.println("Java5");
+		System.out.println("Java6");
 		
 		
 
