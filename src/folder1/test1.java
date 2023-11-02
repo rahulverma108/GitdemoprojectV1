@@ -11,6 +11,8 @@ public class test1 {
 		System.out.println("Java5");
 		System.out.println("Java6");
 		
+		System.out.println("Java7");
+		
 		
 
 	}
